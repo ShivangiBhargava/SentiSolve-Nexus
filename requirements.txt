@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+langchain
+sentence-transformers
+scikit-learn
+pandas
+numpy
+ollama
